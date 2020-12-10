@@ -8,8 +8,7 @@ body{
 		border-radius: 5px;
 		position: absolute;
 		left: 25px;
-		margin-top: 10px;
-		top: 45px;
+		top: 40px;
 	}
 .logo{
 	position: absolute;
@@ -17,21 +16,18 @@ body{
 	left: 50%;
 
 }
-.creditos{
 
-		width: 250px;
-		height: 250px;
-		position: absolute;
-
-		top: 800px;
-		left: 30px;
-
-
-}
 #creditos{
 	position: absolute;
 	left: 30px;
-	width: 450px;
+	width: 500px;
 	height: 90px;
-	top: 555px;
+	top: 560px;
+	margin-top: -50px;
+}
+#snake{
+
+	position: absolute;
+	left: 30px;
+	margin-top: -15px;
 }
